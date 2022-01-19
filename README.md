@@ -14,7 +14,7 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
   
 2. npm i json server
   
-3. npm start 
+3. npm start back-end
 
 > beer-server@1.0.0 start
 > node server.js
@@ -26,4 +26,6 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
 
 6. cd frontend
 
-7. npm start
+7. npm start front-end
+
+>> open your browser on http://localhost:4200/ **
