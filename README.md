@@ -9,8 +9,11 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
 
 # Comandos:
 - Terminal bash:
->> npm init -y 
+  
+>> npm init -y
+  
 >> npm i json server
+  
 >> npm start 
 
 > beer-server@1.0.0 start
