@@ -18,8 +18,7 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
 
 > beer-server@1.0.0 start
 > node server.js
-
-Beer server running on port 3000!
+> Beer server running on port 3000!
 
 4. npm i -g @angular/cli
 
