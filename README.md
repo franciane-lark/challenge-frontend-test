@@ -22,5 +22,8 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
 
 4. npm i -g @angular/cli
 
-5. ng new frontend
+5. ng new frontend --minimal
 
+6. cd frontend
+
+7. npm start
