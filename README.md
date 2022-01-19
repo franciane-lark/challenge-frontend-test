@@ -7,8 +7,8 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
 * */* returns all data;
 * */random/<n>* returns a random subset of the data. Use this if you need a smaller dataset;
 
- # Comandos:
- - Terminal bash:
+# Comandos:
+- Terminal bash:
 >> npm init -y 
 >> npm i json server
 >> npm start 
