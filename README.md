@@ -10,13 +10,18 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
 # Comandos:
 - Terminal bash:
   
->> npm init -y
+1. npm init -y
   
->> npm i json server
+2. npm i json server
   
->> npm start 
+3. npm start 
 
 > beer-server@1.0.0 start
 > node server.js
 
 Beer server running on port 3000!
+
+4. npm i -g @angular/cli
+
+5. ng new frontend
+
