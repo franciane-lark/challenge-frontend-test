@@ -29,3 +29,7 @@ We have a simple API that returns a JSON array. We would like you to use HTML, C
 7. npm start front-end
 
 >> open your browser on http://localhost:4200/ **
+
+8. ng add @angular/material
+
+9. npm start
